@@ -1,6 +1,6 @@
 {
   "name": "libify",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Bundle up your npm package dependencies into a single file libraries",
   "bin": {
     "libify": "lib/libify.js"
