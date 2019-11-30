@@ -1,0 +1,9 @@
+{
+  "name": "sqrt",
+  "version": "1.0.0",
+  "description": "Square root application using libify",
+  "scripts": {
+    "setup": "../../lib/libify.js sqrt",
+    "start": "node index.js"
+  }
+}

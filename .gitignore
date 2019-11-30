@@ -1,0 +1,5 @@
+# Ignore all the node modules
+node_modules
+
+# Ignore the test output
+tests/sqrt/sqrt.js
