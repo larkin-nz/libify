@@ -10,7 +10,7 @@
     "test:sqrt": "cd tests/sqrt; npm run setup; npm run start"
   },
   "dependencies": {
-    "webpack": "4.41.2"
+    "webpack": "5.94.0"
   },
   "author": "Daniel Larkin <daniel@larkin.nz>",
   "homepage": "https://github.com/larkin-nz/libify#readme",
